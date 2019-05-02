@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Chart, bootstrap, canvasjs, dataTables.bootstrap, dataTables.responsive, html5shiv, icheck, jquery.dataTables, respond}" />
+  </component>
+</project>
